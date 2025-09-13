@@ -10,12 +10,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: #cccccc;
+  color: #f4f6f8;
   text-decoration: none;
 }
 
 a:hover {
-  color: #ffffff;
+  color: #eeeeee;
 }
 
 header {
